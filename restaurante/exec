@@ -1,0 +1,11 @@
+#!/bin/bash
+
+FILE="$(basename $(pwd))"
+ARG1=./cfg/restaurante${1}.config
+ARG2=./cfg/restaurante${1}.log
+
+make clean all
+echo
+
+dos2unix $ARG1
+test -f "./build/$FILE" && ./build/$FILE $ARG1 $ARG2

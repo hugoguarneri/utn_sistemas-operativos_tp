@@ -1,0 +1,17 @@
+CrearReceta AsadoConFritas [Cortar,Condimentar,Hornear,Servir] [4,5,5,1]
+CrearReceta VacioConEnsalada [Cortar,Empanar,Hornear,Servir] [4,5,3,1]
+CrearReceta Bondiolita [Cortar,Hornear,Reposar,servir] [2,1,3,2]
+CrearRestaurante Mcdonalds 2 [5,5] [AsadoConFritas] [AsadoConFritas,VacioConEnsalada,Bondiolita] [150,160,120] 1
+
+PruebasCompletas:
+
+CrearReceta AsadoJugoso [Cortar,Hornear,Servir] [3,3,2]
+CrearReceta AsadoSeco [Cortar,Hornear,Servir] [3,10,2]
+CrearReceta Choripan [Cortar,Hornear,Servir] [1,2,1]
+CrearReceta WokDeVegetales [Cortar,Condimentar,Servir] [3,1,1]
+CrearReceta TortillaDePapa [Cortar,Hervir,Hornear,Servir] [2,2,3,1]
+CrearReceta MilaCompleta [Empanar,Hornear,Servir] [5,2,1]
+CrearRestaurante LaParri 2 [1,1] [AsadoJugoso] [AsadoJugoso,AsadoSeco,Choripan] [200,200,125] 1
+CrearRestaurante GreenLife 1 [9,9] [] [WokDeVegetales,TortillaDePapa] [200,150] 1
+CrearRestaurante MilangaPalace 1 [5,5] [] [MilaCompleta] [200] 1
+

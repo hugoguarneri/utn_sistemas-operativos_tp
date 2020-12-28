@@ -1,0 +1,8 @@
+#!/bin/bash
+FILE="$(basename $(pwd))"
+make clean
+make all
+echo
+
+dos2unix cfg/comanda.config
+test -f "./build/$FILE" && valgrind --tool=memcheck --leak-check=yes --show-possibly-lost=no --show-reachable=no --num-callers=20 ./build/$FILE

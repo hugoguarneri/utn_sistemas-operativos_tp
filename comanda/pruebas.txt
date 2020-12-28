@@ -1,0 +1,58 @@
+GuardarPedido Resto 1
+GuardarPedido Resto 2
+GuardarPedido Resto 3
+GuardarPedido Resto 4
+GuardarPedido Resto 5
+GuardarPedido Resto 6
+GuardarPedido Resto 7
+GuardarPlato Resto 1 AsadoConFritas 1
+GuardarPlato Resto 2 AsadoConFritas 2
+GuardarPlato Resto 5 Bondiolita 4
+GuardarPlato Resto 3 AsadoConFritas 1
+GuardarPlato Resto 6 Bondiolita 4
+ObtenerPedido Resto 1
+GuardarPlato Resto 4 Choripan 20
+ObtenerPedido Resto 2
+GuardarPlato Resto 7 Morcipan 1
+GuardarPlato Resto 1 AsadoConFritas 1
+GuardarPlato Resto 3 AsadoConFritas 1
+ObtenerPedido Resto 3
+ConfirmarPedido Resto 1
+ConfirmarPedido Resto 2
+ConfirmarPedido Resto 3
+ConfirmarPedido Resto 4
+ConfirmarPedido Resto 5
+ConfirmarPedido Resto 6
+ConfirmarPedido Resto 7
+PlatoListo Resto 1 AsadoConFritas
+PlatoListo Resto 2 AsadoConFritas
+PlatoListo Resto 3 AsadoConFritas
+PlatoListo Resto 1 AsadoConFritas
+PlatoListo Resto 2 AsadoConFritas
+PlatoListo Resto 5 Bondiolita
+PlatoListo Resto 6 Bondiolita
+PlatoListo Resto 6 Bondiolita
+PlatoListo Resto 6 Bondiolita
+PlatoListo Resto 6 Bondiolita
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+PlatoListo Resto 4 Choripan
+
+

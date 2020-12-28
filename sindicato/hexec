@@ -1,0 +1,6 @@
+#!/bin/bash
+FILE="$(basename $(pwd))"
+make clean
+make all
+echo
+test -f "./build/$FILE" && valgrind --tool=helgrind ./build/$FILE

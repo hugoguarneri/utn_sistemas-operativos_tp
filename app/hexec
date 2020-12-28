@@ -1,0 +1,8 @@
+#!/bin/bash
+FILE="$(basename $(pwd))"
+make clean
+make all
+echo
+
+dos2unix cfg/app.config
+test -f "./build/$FILE" && valgrind --tool=helgrind ./build/$FILE
